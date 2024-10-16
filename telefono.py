@@ -7,3 +7,6 @@ class Telefono():
         self.modelo = modelo
         self.camara = camara
         self.pantalla = pantalla
+
+    def get_fabricante(self):
+        return self.fabricante
