@@ -10,3 +10,10 @@ class Telefono():
 
     def get_fabricante(self):
         return self.fabricante
+
+    def get_modelo(self):
+        return self.modelo
+
+    def get_camara(self):
+        return self.camara
+
